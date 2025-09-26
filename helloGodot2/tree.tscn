@@ -1,0 +1,48 @@
+[gd_scene format=3 uid="uid://dqpqkc2lb0fer"]
+
+[node name="tree" type="Node2D"]
+rotation = 0.09773844
+scale = Vector2(1, 0.99999994)
+skew = -0.20943952
+
+[node name="leaf" type="ColorRect" parent="."]
+offset_left = 58.734955
+offset_top = 67.69034
+offset_right = 262.2312
+offset_bottom = 212.36288
+rotation = 0.09773844
+color = Color(0.4884104, 0.737119, 0.28236517, 1)
+metadata/_edit_use_anchors_ = true
+
+[node name="trunk" type="ColorRect" parent="."]
+offset_left = 134.27588
+offset_top = 146.81195
+offset_right = 174.836
+offset_bottom = 327.52985
+rotation = 0.09773844
+color = Color(0.6172059, 0.5891244, 0.38709083, 1)
+metadata/_edit_use_anchors_ = true
+
+[node name="tree" type="Node2D" parent="."]
+position = Vector2(751.7166, 232.0918)
+rotation = 0.09773844
+scale = Vector2(1, 0.99999994)
+skew = -0.20943952
+
+[node name="leaf" type="ColorRect" parent="tree"]
+offset_left = -120.14343
+offset_top = -79.80465
+offset_right = 83.352844
+offset_bottom = 64.8679
+rotation = 0.09773844
+color = Color(0.4884104, 0.737119, 0.28236517, 1)
+metadata/_edit_use_anchors_ = true
+
+[node name="trunk" type="ColorRect" parent="tree"]
+offset_left = -48.235443
+offset_top = 10.378197
+offset_right = -7.6753235
+offset_bottom = 191.09607
+rotation = 0.09773844
+color = Color(0.6172059, 0.5891244, 0.38709083, 1)
+metadata/_edit_use_anchors_ = true

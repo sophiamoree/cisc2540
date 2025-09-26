@@ -1,0 +1,30 @@
+[gd_scene load_steps=4 format=3 uid="uid://bj62k6b0okxvm"]
+
+[ext_resource type="Texture2D" uid="uid://dauv1aeup3slf" path="res://chat.webp" id="1_dfm56"]
+[ext_resource type="Texture2D" uid="uid://ccci8uj64bp8r" path="res://chat2.png" id="2_yhfw1"]
+[ext_resource type="PackedScene" uid="uid://dqpqkc2lb0fer" path="res://tree.tscn" id="3_yhfw1"]
+
+[node name="cat2" type="Sprite2D"]
+modulate = Color(0.9839402, 0.6828902, 0.77463585, 1)
+position = Vector2(816.00006, 378)
+rotation = -0.17976892
+scale = Vector2(1.2975396, 1.1026539)
+skew = 0.22863813
+texture = ExtResource("1_dfm56")
+
+[node name="cat" type="Sprite2D" parent="."]
+modulate = Color(0.52273214, 0.6938199, 0.8789031, 1)
+position = Vector2(-338.88766, 43.92572)
+rotation = -6.1034164
+scale = Vector2(0.19614287, 0.22180146)
+skew = -0.20245819
+texture = ExtResource("2_yhfw1")
+
+[node name="tree" parent="." instance=ExtResource("3_yhfw1")]
+position = Vector2(-651.4938, -533.1233)
+
+[node name="tree2" parent="." instance=ExtResource("3_yhfw1")]
+position = Vector2(-706.6082, -224.21391)
+
+[node name="tree3" parent="." instance=ExtResource("3_yhfw1")]
+position = Vector2(-618.88837, -447.2598)
