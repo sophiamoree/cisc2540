@@ -1,7 +1,1 @@
-![chat](https://github.com/user-attachments/assets/32f10cad-190e-4307-89a7-45e4235f5d80)
-
-
-the project called "helloGodot" is the submission for lab #1 which contains 2 sprites/images and
-a "scene" (some trees...)
-- i had difficulty trying to adjust the size of everything because i couldnt figure out
-  how to seperate the parent node from child, so some of the 'trees' are covering my cat 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fblack-cat_16846911.html&psig=AOvVaw2mtW_EaPV4XcR7Lu4ms0HY&ust=1759549755730000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCIC9quOPh5ADFQAAAAAdAAAAABAE<img width="2500" height="2500" alt="image" src="https://github.com/user-attachments/assets/5ca8143c-b165-49de-8e80-642d589ed0f6" />
