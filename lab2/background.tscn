@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://jbmdcqkguhp1"]
+
+[ext_resource type="Texture2D" uid="uid://dhvubhupsrpc1" path="res://space.png" id="1_oabld"]
+
+[node name="sky" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+z_index = -4000
+position = Vector2(574, 325.99997)
+scale = Vector2(2.302, 2.1733334)
+texture = ExtResource("1_oabld")

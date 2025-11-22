@@ -1,6 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://bpthwyh01ugc6"]
-
-[ext_resource type="Texture2D" uid="uid://bm24ys2gn1nw7" path="res://icon.svg" id="1_hcucf"]
-
-[node name="cat" type="Sprite2D"]
-texture = ExtResource("1_hcucf")
